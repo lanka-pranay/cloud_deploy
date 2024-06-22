@@ -4,3 +4,4 @@ langchain
 streamlit-extras
 transformers
 langchain-community
+sentence-transformers
