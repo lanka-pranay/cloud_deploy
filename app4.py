@@ -13,7 +13,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.callbacks import get_openai_callback
 import os
 from langchain import HuggingFaceHub
-from htmlTemplates import css, bot_template, user_template
+# from htmlTemplates import css, bot_template, user_template
 HUGGINGFACEHUB_API_TOKEN  =   "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"
  
 # Sidebar contents
